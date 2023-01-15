@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header .jok{
+    border-right: 1px solid black;
+}
